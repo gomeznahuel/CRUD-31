@@ -40,8 +40,6 @@ We start with JavaScript environments, then move on to other languages.
 | 29 | Rust | Rocket | Rocket | Coming Soon | [rocket.rs](https://rocket.rs/) |
 | 30 | Java | Java | Java | Coming Soon | [java.com](https://java.com/) |
 | 31 | Java | Spring | Spring | Coming Soon | [spring.io](https://spring.io/) |
-| 32 | Java | Play | Play | Coming Soon | [playframework.com](https://playframework.com/) |
-| 33 | Java | Grails | Grails | Coming Soon | [grails.org](https://grails.org/) |
 
 I will broadcast the development of this project on my [**Twitch channel**](https://twitch.tv/gomeznahueldev) and [**YouTube channel**](https://youtube.com/gomeznahueldev). I will also be posting updates on my [**Twitter**](https://twitter.com/gomeznahueldev) and [**Instagram**](https://instagram.com/gomeznahueldev).
 
